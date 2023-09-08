@@ -2,7 +2,7 @@
 - 👀 I’m interested in drawing and photography
 - 🌱 I’m currently learning visual studio
 - 💞️ I’m looking to collaborate on balabalbal
-- 📫 you can contact me by email:balabalbal
+- 📫 you can contact me by email
 
 <!---
 vans200410/vans200410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
