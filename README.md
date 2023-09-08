@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vans200410,a freshman
 - 👀 I’m interested in drawing and photography
 - 🌱 I’m currently learning visual studio
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on balabalbal
 - 📫 you can contact me by email:balabalbal
 
 <!---
